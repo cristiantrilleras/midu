@@ -11,7 +11,7 @@ export default function RootLayout({
         <h1>Cristian David Trilleras</h1>
         {children}
         <footer className='py-10 flex justify-center items-center'>
-          hecho por cristian t
+          hecho por cristian trilleras
         </footer>
         </body>
     </html>
